@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Sawwik
 
-<!--
-**Sawwik404/Sawwik404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student with a strong interest in coding and technology.  
+I like building simple, practical things and constantly improving my skills.
 
-Here are some ideas to get you started:
+## 🚀 What I'm focused on
+- Learning programming step by step
+- Creating small but useful projects
+- Improving problem-solving and logical thinking
+- Exploring game modding & scripting (especially FiveM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & tools
+- HTML, CSS
+- JavaScript (learning)
+- Lua (basic scripting)
+
+## 🎯 Goals
+- Become better at programming every month
+- Build projects I can actually use or share
+
+## 📫 Contact
+- GitHub: **@Sawwik**
+
+> Still learning. Still improving. No shortcuts.
